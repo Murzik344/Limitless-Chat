@@ -17,7 +17,7 @@ Click **New Issue** and describe:
 
 * What feature you'd like
 * Why it would improve the mod
-* 
+
 ## How to Request a Version Port
 
 Click **New Issue**, select **Version Request**, and include:
@@ -25,7 +25,7 @@ Click **New Issue**, select **Version Request**, and include:
 * The exact Minecraft version you want
 * The Mod Loader you use (Forge/Fabric/NeoForge)
 * (Optional) Why you need this specific version
-* 
+
 ## Links
 
 * [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/limitless-chat)
